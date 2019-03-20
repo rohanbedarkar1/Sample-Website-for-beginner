@@ -1,0 +1,56 @@
+***********************************************
+***********     PROJECT CHARTER     **********
+***********************************************
+
+# PROJECT NAME :
+
+_______________________________________________
+CUSTOMER/INDUSTRY PROBLEM
+
+
+
+_______________________________________________
+HOW OUR SOLUTION IS ADDRESSING THIS PROBLEM
+
+
+
+_______________________________________________
+Milestone 1: <Milestone Name>
+Deliverable :
+Milestone Date :
+Current Status :
+.................................................................................
+Milestone 2: <Milestone Name>
+Deliverable :
+Milestone Date :
+Current Status :
+.................................................................................
+Milestone 3: <Milestone Name>
+Deliverable :
+Milestone Date :
+Current Status :
+_______________________________________________
+ESTIMATE CURRENT QUARTER
+People:	Total:		Available:	Gap:
+Infra:	Total:		Available:	Gap:
+
+Notes:
+
+.................................................................................
+ESTIMATE NEXT QUARTER
+People:	Total:		Available:	Gap:
+Infra:	Total:		Available:	Gap:
+
+Notes:
+
+_______________________________________________
+TOOLS REQUIREMENT
+
+Tool 1:	<name> : <qty> : <cost in INR>
+Tool 2:	<name> : <qty> : <cost in INR>
+Tool 3:	<name> : <qty> : <cost in INR>
+
+Total cost: INR XXX
+_______________________________________________
+                        
+                        

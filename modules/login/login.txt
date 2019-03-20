@@ -1,0 +1,1 @@
+a:5:{s:8:"username";s:7:"";s:8:"password";s:10:"";s:6:"dbName";s:0:"";s:3:"app";s:0:"";s:18:"redmine_project_id";s:0:"";}

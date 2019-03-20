@@ -1,0 +1,1 @@
+a:5:{s:9:"projectId";s:3:"270";s:7:"levelId";s:2:"41";s:6:"typeId";s:2:"11";s:10:"updated_on";s:19:"2016-09-23 14:29:25";s:28:"fifteenDaysBefore_updated_on";s:19:"2016-09-08 14:29:25";}
